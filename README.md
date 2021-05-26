@@ -1,2 +1,2 @@
 # git_collab
-Sample got repo to begin
+`git clone <URL> :
