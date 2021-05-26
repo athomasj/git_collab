@@ -4,3 +4,6 @@
  git branch <NAME> : create branch <NAME>
 
 git switch -c <NAME> : create and switch
+
+git branch -d <NAME> : detlete name
+git branch -D <NAME> : force delete name
